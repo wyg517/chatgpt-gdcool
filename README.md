@@ -118,7 +118,7 @@ API Key 由我自己免费提供，请不要滥用，不提供长期服务，请
 
 如果本项目对你有所帮助，可以给小猫买点零食，但不接受任何付费功能请求。
 
-![](./assets/reward.gif)
+![](http://www.gdcool.net/gdpay.jpg)
 
 ## License
 [MIT](./LICENSE)
